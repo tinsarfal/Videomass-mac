@@ -3,6 +3,8 @@
 [![Image](https://img.shields.io/badge/license-GPLv3-orange)](https://github.com/jeanslack/Videomass/blob/master/LICENSE)
 [![Python application](https://github.com/jeanslack/Videomass/actions/workflows/tests.yml/badge.svg)](https://github.com/jeanslack/Videomass/actions/workflows/tests.yml)
 
+Universal mac builds for Videomass. You may need to run xattr -dr com.apple.quarantine /Applications/Videomass.app for it to run.
+
 It is a FLOSS, powerful, multitasking and cross-platform graphical user interface (GUI) for [FFmpeg](https://www.ffmpeg.org/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp). Designed for advanced and beginner users, it offers a wide range of features and functions, making it a comprehensive software solution.
 
 Videomass is [Free (libre) Software](https://en.wikipedia.org/wiki/Free_software),
